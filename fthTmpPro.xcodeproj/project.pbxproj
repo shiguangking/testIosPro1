@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FF3B258D1FC9893400D634F5 /* testIosPro1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testIosPro1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF3B258D1FC9893400D634F5 /* fthTmpPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fthTmpPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF3B25911FC9893400D634F5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FF3B25931FC9893400D634F5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FF3B25941FC9893400D634F5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -45,10 +45,10 @@
 		FF3B259C1FC9893400D634F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF3B259F1FC9893400D634F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF3B25A11FC9893400D634F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FF3B25A61FC9893400D634F5 /* testIosPro1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testIosPro1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF3B25A61FC9893400D634F5 /* fthTmpProTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = fthTmpProTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF3B25AA1FC9893400D634F5 /* testIosPro1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testIosPro1Tests.m; sourceTree = "<group>"; };
 		FF3B25AC1FC9893400D634F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FF3B25B11FC9893400D634F5 /* testIosPro1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testIosPro1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF3B25B11FC9893400D634F5 /* fthTmpProUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = fthTmpProUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF3B25B51FC9893400D634F5 /* testIosPro1UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testIosPro1UITests.m; sourceTree = "<group>"; };
 		FF3B25B71FC9893400D634F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -91,9 +91,9 @@
 		FF3B258E1FC9893400D634F5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FF3B258D1FC9893400D634F5 /* testIosPro1.app */,
-				FF3B25A61FC9893400D634F5 /* testIosPro1Tests.xctest */,
-				FF3B25B11FC9893400D634F5 /* testIosPro1UITests.xctest */,
+				FF3B258D1FC9893400D634F5 /* fthTmpPro.app */,
+				FF3B25A61FC9893400D634F5 /* fthTmpProTests.xctest */,
+				FF3B25B11FC9893400D634F5 /* fthTmpProUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -143,9 +143,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FF3B258C1FC9893400D634F5 /* testIosPro1 */ = {
+		FF3B258C1FC9893400D634F5 /* fthTmpPro */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF3B25BA1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "testIosPro1" */;
+			buildConfigurationList = FF3B25BA1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "fthTmpPro" */;
 			buildPhases = (
 				FF3B25891FC9893400D634F5 /* Sources */,
 				FF3B258A1FC9893400D634F5 /* Frameworks */,
@@ -155,14 +155,14 @@
 			);
 			dependencies = (
 			);
-			name = testIosPro1;
+			name = fthTmpPro;
 			productName = testIosPro1;
-			productReference = FF3B258D1FC9893400D634F5 /* testIosPro1.app */;
+			productReference = FF3B258D1FC9893400D634F5 /* fthTmpPro.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FF3B25A51FC9893400D634F5 /* testIosPro1Tests */ = {
+		FF3B25A51FC9893400D634F5 /* fthTmpProTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF3B25BD1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "testIosPro1Tests" */;
+			buildConfigurationList = FF3B25BD1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "fthTmpProTests" */;
 			buildPhases = (
 				FF3B25A21FC9893400D634F5 /* Sources */,
 				FF3B25A31FC9893400D634F5 /* Frameworks */,
@@ -173,14 +173,14 @@
 			dependencies = (
 				FF3B25A81FC9893400D634F5 /* PBXTargetDependency */,
 			);
-			name = testIosPro1Tests;
+			name = fthTmpProTests;
 			productName = testIosPro1Tests;
-			productReference = FF3B25A61FC9893400D634F5 /* testIosPro1Tests.xctest */;
+			productReference = FF3B25A61FC9893400D634F5 /* fthTmpProTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		FF3B25B01FC9893400D634F5 /* testIosPro1UITests */ = {
+		FF3B25B01FC9893400D634F5 /* fthTmpProUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FF3B25C01FC9893400D634F5 /* Build configuration list for PBXNativeTarget "testIosPro1UITests" */;
+			buildConfigurationList = FF3B25C01FC9893400D634F5 /* Build configuration list for PBXNativeTarget "fthTmpProUITests" */;
 			buildPhases = (
 				FF3B25AD1FC9893400D634F5 /* Sources */,
 				FF3B25AE1FC9893400D634F5 /* Frameworks */,
@@ -191,9 +191,9 @@
 			dependencies = (
 				FF3B25B31FC9893400D634F5 /* PBXTargetDependency */,
 			);
-			name = testIosPro1UITests;
+			name = fthTmpProUITests;
 			productName = testIosPro1UITests;
-			productReference = FF3B25B11FC9893400D634F5 /* testIosPro1UITests.xctest */;
+			productReference = FF3B25B11FC9893400D634F5 /* fthTmpProUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -221,7 +221,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FF3B25881FC9893400D634F5 /* Build configuration list for PBXProject "testIosPro1" */;
+			buildConfigurationList = FF3B25881FC9893400D634F5 /* Build configuration list for PBXProject "fthTmpPro" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -234,9 +234,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FF3B258C1FC9893400D634F5 /* testIosPro1 */,
-				FF3B25A51FC9893400D634F5 /* testIosPro1Tests */,
-				FF3B25B01FC9893400D634F5 /* testIosPro1UITests */,
+				FF3B258C1FC9893400D634F5 /* fthTmpPro */,
+				FF3B25A51FC9893400D634F5 /* fthTmpProTests */,
+				FF3B25B01FC9893400D634F5 /* fthTmpProUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -300,12 +300,12 @@
 /* Begin PBXTargetDependency section */
 		FF3B25A81FC9893400D634F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FF3B258C1FC9893400D634F5 /* testIosPro1 */;
+			target = FF3B258C1FC9893400D634F5 /* fthTmpPro */;
 			targetProxy = FF3B25A71FC9893400D634F5 /* PBXContainerItemProxy */;
 		};
 		FF3B25B31FC9893400D634F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FF3B258C1FC9893400D634F5 /* testIosPro1 */;
+			target = FF3B258C1FC9893400D634F5 /* fthTmpPro */;
 			targetProxy = FF3B25B21FC9893400D634F5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -426,7 +426,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = testIosPro1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.unimlink.jwg.testIosPro1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mLink.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -437,7 +437,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = testIosPro1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.unimlink.jwg.testIosPro1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mLink.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -450,7 +450,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.unimlink.jwg.testIosPro1Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testIosPro1.app/testIosPro1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/fthTmpPro.app/fthTmpPro";
 			};
 			name = Debug;
 		};
@@ -462,7 +462,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.unimlink.jwg.testIosPro1Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testIosPro1.app/testIosPro1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/fthTmpPro.app/fthTmpPro";
 			};
 			name = Release;
 		};
@@ -491,7 +491,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FF3B25881FC9893400D634F5 /* Build configuration list for PBXProject "testIosPro1" */ = {
+		FF3B25881FC9893400D634F5 /* Build configuration list for PBXProject "fthTmpPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF3B25B81FC9893400D634F5 /* Debug */,
@@ -500,29 +500,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FF3B25BA1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "testIosPro1" */ = {
+		FF3B25BA1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "fthTmpPro" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF3B25BB1FC9893400D634F5 /* Debug */,
 				FF3B25BC1FC9893400D634F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		FF3B25BD1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "testIosPro1Tests" */ = {
+		FF3B25BD1FC9893400D634F5 /* Build configuration list for PBXNativeTarget "fthTmpProTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF3B25BE1FC9893400D634F5 /* Debug */,
 				FF3B25BF1FC9893400D634F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		FF3B25C01FC9893400D634F5 /* Build configuration list for PBXNativeTarget "testIosPro1UITests" */ = {
+		FF3B25C01FC9893400D634F5 /* Build configuration list for PBXNativeTarget "fthTmpProUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FF3B25C11FC9893400D634F5 /* Debug */,
 				FF3B25C21FC9893400D634F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

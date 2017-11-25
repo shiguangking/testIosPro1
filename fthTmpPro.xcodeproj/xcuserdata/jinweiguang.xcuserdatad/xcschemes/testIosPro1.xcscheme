@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FF3B258C1FC9893400D634F5"
-               BuildableName = "testIosPro1.app"
-               BlueprintName = "testIosPro1"
-               ReferencedContainer = "container:testIosPro1.xcodeproj">
+               BuildableName = "fthTmpPro.app"
+               BlueprintName = "fthTmpPro"
+               ReferencedContainer = "container:fthTmpPro.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FF3B25A51FC9893400D634F5"
-               BuildableName = "testIosPro1Tests.xctest"
-               BlueprintName = "testIosPro1Tests"
-               ReferencedContainer = "container:testIosPro1.xcodeproj">
+               BuildableName = "fthTmpProTests.xctest"
+               BlueprintName = "fthTmpProTests"
+               ReferencedContainer = "container:fthTmpPro.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FF3B25B01FC9893400D634F5"
-               BuildableName = "testIosPro1UITests.xctest"
-               BlueprintName = "testIosPro1UITests"
-               ReferencedContainer = "container:testIosPro1.xcodeproj">
+               BuildableName = "fthTmpProUITests.xctest"
+               BlueprintName = "fthTmpProUITests"
+               ReferencedContainer = "container:fthTmpPro.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FF3B258C1FC9893400D634F5"
-            BuildableName = "testIosPro1.app"
-            BlueprintName = "testIosPro1"
-            ReferencedContainer = "container:testIosPro1.xcodeproj">
+            BuildableName = "fthTmpPro.app"
+            BlueprintName = "fthTmpPro"
+            ReferencedContainer = "container:fthTmpPro.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FF3B258C1FC9893400D634F5"
-            BuildableName = "testIosPro1.app"
-            BlueprintName = "testIosPro1"
-            ReferencedContainer = "container:testIosPro1.xcodeproj">
+            BuildableName = "fthTmpPro.app"
+            BlueprintName = "fthTmpPro"
+            ReferencedContainer = "container:fthTmpPro.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FF3B258C1FC9893400D634F5"
-            BuildableName = "testIosPro1.app"
-            BlueprintName = "testIosPro1"
-            ReferencedContainer = "container:testIosPro1.xcodeproj">
+            BuildableName = "fthTmpPro.app"
+            BlueprintName = "fthTmpPro"
+            ReferencedContainer = "container:fthTmpPro.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
